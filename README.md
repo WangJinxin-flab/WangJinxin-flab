@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 I’m currently interested in the intersection between AI and physics.
+
 <!--
 **WangJinxin-flab/WangJinxin-flab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
